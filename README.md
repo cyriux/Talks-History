@@ -1,4 +1,6 @@
-# Talks-History
+# Talks History
+
+![My picture on gravatar](http://www.gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3)
 
 Please find here the list of my past and current talks descriptions, along with my speaker bios (FR, EN).
 
