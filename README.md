@@ -6,7 +6,20 @@ Since I've launched the Paris Software Craftsmanship Community in 2011 I've been
 
 ## Overview
 
-Keynote DDD Europe 2016 (Bruxelles), Oredev 2013 (Malmö), Devoxx 2012, 2014, 2015, DDDx London 2012, 2014, 2015, DDDx NYC 2014, ITAKE 2012, 2015, Agile France 2013, 2014, 2015, Scrum Day 2013, 2015, Socrates Germany 2012, 2014, 2015. A titre d'exemple en 2015, participation comme speaker à 19 conférences.
+- Keynote DDD Europe 2016 (Bruxelles), talk at DDD Europe 2017 (Amsterdam)
+- Oredev 2013 (Malmö)
+- NCrafts 2015, 2016 (Paris)
+- Devoxx France 2012, 2014, 2015, 2016 (Paris)
+- DDDx London 2012, 2014, 2015, 2016 (UK)
+- DDDx New-York City 2014 (US)
+- Agile Hong-Kong 2016 (HK)
+- ITAKE Bucharest 2012, 2015
+- Agile France 2013, 2014, 2015, 2016
+- Scrum Day Paris 2013, 2015
+- Socrates Germany 2012, 2014, 2015, Socrates France, Codefreeze
+- Agile tour across France, BDX.IO, Codeurs en Seine...
+
+For example in 2015 I spoke at 19 events.
 
 Also member of the Devoxx France 2015-2016-2017 Program Commitee.
 
