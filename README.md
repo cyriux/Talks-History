@@ -24,12 +24,15 @@ I'm writing a book [Living Documentation on Leanpub](https://leanpub.com/livingd
 Some of my past videos online
 
 ### English
-http://oredev.org/2013/wed-fri-conference/refactor-your-specs (EN)
-https://skillsmatter.com/skillscasts/5266-ur-domain-haz-monoidz (EN)
+
+- http://oredev.org/2013/wed-fri-conference/refactor-your-specs-  - 
+- https://skillsmatter.com/skillscasts/5266-ur-domain-haz-monoidz 
 
 ### French
-https://www.parleys.com/talk/extremist-programming-lart-de-samuser-avec-du-code (FR)
-https://www.parleys.com/talk/net-pour-le-developpeur-java-une-source-dinspiration (FR)
+
+- https://www.parleys.com/talk/extremist-programming-lart-de-samuser-avec-du-code
+- https://www.parleys.com/talk/net-pour-le-developpeur-java-une-source-dinspiration 
+- http://www.infoq.com/fr/presentations/code-legacy
 
 ## Misc
 
