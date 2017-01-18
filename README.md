@@ -20,16 +20,24 @@ I'm writing a book [Living Documentation on Leanpub](https://leanpub.com/livingd
 
 [Slideshare](http://www.slideshare.net/cyriux/)
 
-## Videos
-Some of my past videos online
+## Videos & Coverage
+
+Some of my past videos online, and feedbacks.
+
+> #Oredev Great session @cyriux on Refactor your specs. Excellent presentation, very practical, very entertaining 
+> -- Woody Zuill (@WoodyZuill)
 
 ### English
 
+- [Infoq article on my DDD Europe keynote: Working with Domain Experts in a DDD World](https://www.infoq.com/news/2016/05/domain-experts-ddd)
+- [Infoq article on my DDDx talk: Living Documentation](https://www.infoq.com/news/2015/06/ddd-living-documentation)
 - http://oredev.org/2013/wed-fri-conference/refactor-your-specs-  - 
 - https://skillsmatter.com/skillscasts/5266-ur-domain-haz-monoidz 
 
 ### French
 
+- Hexagonal Architecture to future-proof your system! (French) - A 3-hour Devoxx France University, together with Thomas Pierrain: https://www.youtube.com/watch?v=wZ7cxcU4iPE
+- Property-Based Testing, from testing to design, for everyone (French) - Another 3-hour Devoxx France University, together with Romeu Moura: https://www.youtube.com/watch?v=O-LWbSUaEQU 
 - https://www.parleys.com/talk/extremist-programming-lart-de-samuser-avec-du-code
 - https://www.parleys.com/talk/net-pour-le-developpeur-java-une-source-dinspiration 
 - http://www.infoq.com/fr/presentations/code-legacy
