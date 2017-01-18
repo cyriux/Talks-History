@@ -8,5 +8,8 @@ The world has not stopped since the book either, and new ideas keep on emerging 
 
 In this session, through examples and code we'll go through some particularly important patterns which deserve to be in your tool belt. We'll also provide guidance on how best to use them (or not), at the right time and in the right context, and on how to train your colleagues on them!
 
-# Keywords
+## Keywords
 design, pattern, archetype, classic, litterature, know your craft
+
+## Additional Description
+Created for DDDEU 2017
