@@ -2,6 +2,8 @@
 
 ![My picture on gravatar](http://www.gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3)
 
+Hey! I'm [@cyriux on Twitter](https://twitter.com/cyriux)
+
 Please find here the list of my past and current talks descriptions, along with my speaker bios (FR, EN).
 
 Since I've launched the Paris Software Craftsmanship Community in 2011 I've been speaking in many conferences a bit everywhere. My talks usually revolve around DDD, Design & Software Craftsmanship practices in general. My focus is on exploring our design practices to improve our job of working with software in the long term. Related to that, an important goal in my talks and my book is to make design skills more popular for a mainstream audience, while being fun and entertaining.
