@@ -6,6 +6,7 @@ Passionné de design sous tous ses aspects (Clean Code, TDD, BDD, DDD, architect
 
 # Bio 2
 
-Cyrille Martraire (@cyriux on Twitter) is a partner at Arolla (60 consultants), the founder of the Paris Software Craftsmanship community and a regular speaker in international conferences. He's joining the team, part-time, to support the the initiatives to improve the development practices.
+Cyrille (@cyriux on Twitter) est CTO co-fondateur de la société Arolla, qui rassemble 60 développeurs passionnés de code bien écrit et bien testé. Il a fondé la communauté Paris Software Craftsmanship et intervient fréquemment comme orateur dans des conférences en Europe et parfois au-délà.
 
-With 15+ years of experience in startups, software vendors and banks, and a passion about design in every aspect (TDD, BDD, DDD), Cyrille still calls himself a developer, and he has an extensive knowledge of capital market finance developed at SG (twice), CACIB, Sungard and CME.
+# Bio 3
+Cyrille est avant tout un développeur avec 15 ans d'expérience en startups, chez des éditeurs et des banques, et avec une passion intacte pour le design dans toutes ses formes (TDD, BDD, DDD). 
