@@ -1,4 +1,4 @@
-# Interviewing domain experts: heuristics from the trenches [talk][All Audience]
+# Interviewing domain experts: heuristics from the trenches
 
 ## Abstract 
 
@@ -14,3 +14,7 @@ If you think all the above is important, then these interviewing techniques will
 Created for DDD Europe 2016 Second-day opening keynote. 
 
 Also presented at NCraft Paris 2016, LeanKanbanFr 2016.
+
+## Keywords
+
+DDD, Domain-Driven Design, design, domain experts, BA, BDD, conversations, specifications, requirements, analysis, bounded context, software craftsmanship, knowledge management
