@@ -8,7 +8,7 @@ Subtitle: (Discover the elegance of monoids for your domain models)
 
 You probably can't imagine that Monoids (not monads) are so simple maths creatures that you can understand them in just a few minutes. But you probably don't imagine either that they can help you craft elegant and powerful domain models that scale very well.
 
-Through various examples, we will have a closer look at monoids used for domain modeling in a style that mixes the best of DDD and FP. Even in languages like Java or C#, this talk will influence your coding style forever!
+Through various examples and a demonstration with glasses of beers, we will have a closer look at monoids used for domain modeling in a style that mixes the best of DDD and FP. Even in languages like Java or C#, this talk will influence your coding style forever!
 
 ## Additional Description
 
