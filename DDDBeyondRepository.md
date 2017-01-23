@@ -9,3 +9,7 @@ In this talk for junior and senior developers alike, we'll clarify the few most 
 ## Description
 
 This is an introduction for any audience of what DDD is really like and what it's not. No jargon, easy examples, it's a popular talk.
+
+# Keywords
+
+DDD, Domain-Driven Design, design, code, architecture, bounded context, modeling, emergent design, software craftsmanship, value object, repository, hexagonal architecture
