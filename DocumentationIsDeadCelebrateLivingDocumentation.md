@@ -1,5 +1,8 @@
 # Documentation is Dead, Celebrate Living Documentation!
 
+
+*The benefits of documentation without the frustration*
+
 ## Abstract
 Unhappy about documentation? Prefer coding over writing? Discover the
 Living Documentation approach in practice through concrete examples!
