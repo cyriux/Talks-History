@@ -6,9 +6,13 @@ Hey! I'm [@cyriux on Twitter](https://twitter.com/cyriux)
 
 Please find here the list of my past and current talks descriptions, along with my speaker bios (FR, EN).
 
+> I wrote a book "Living Documentation by Design" on Leanpub which has now been signed by Pearson/Addison-Wesley. I'm helping development teams get better at software design and Domain-Driven Design in particular through talks, workshops and teaching training courses everywhere.
+
 Since I've launched the Paris Software Craftsmanship Community in 2011 I've been speaking in many conferences a bit everywhere. My talks usually revolve around DDD, Design & Software Craftsmanship practices in general. My focus is on exploring our design practices to improve our job of working with software in the long term. Related to that, an important goal in my talks and my book is to make design skills more popular for a mainstream audience, while being fun and entertaining.
 
 ## Overview
+
+> Briefly: Øredev 2013 (Malmö), DDD Europe 2016 (Keynote in Bruxelles), 2017 (Amsterdam), NCrafts 2015, 2016 (Paris), Devoxx France 2012, 2014, 2015, 2016 (Paris), DDDx New-York City 2014 (US), DDDx London 2012, 2014, 2015, 2016 (UK), Agile Hong-Kong 2016 (HK) and many other in France and Europe.
 
 - Keynote DDD Europe 2016 (Bruxelles), talk at DDD Europe 2017 (Amsterdam)
 - Oredev 2013 (Malmö)
@@ -52,6 +56,7 @@ Some of my past videos online, and feedbacks.
 
 ### English
 
+- [DDD Europe 2nd Day opening keynote](https://youtu.be/XYw5Mn5yVMM) 
 - [Infoq article on my DDD Europe keynote: Working with Domain Experts in a DDD World](https://www.infoq.com/news/2016/05/domain-experts-ddd)
 - [Infoq article on my DDDx talk: Living Documentation](https://www.infoq.com/news/2015/06/ddd-living-documentation)
 - http://oredev.org/2013/wed-fri-conference/refactor-your-specs-  - 
