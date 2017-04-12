@@ -51,6 +51,8 @@ For example:
 
 Some of my past videos online, and feedbacks.
 
+[Youtube playlist](https://www.youtube.com/playlist?list=PLEQ0rkTkaNSPPUC1kDPhdgN9XY-56g_5g)
+
 > #Oredev Great session @cyriux on Refactor your specs. Excellent presentation, very practical, very entertaining 
 > -- Woody Zuill (@WoodyZuill)
 
