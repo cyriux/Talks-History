@@ -14,18 +14,24 @@ From 1 to 2 days depending on the scope
 
 Object Oriented Design skills, DDD notions. No pre-requisite in maths or functional programming. Code examples will be given in Java, but exercises can be done in any language and without any specific framework or library.
 
+# Business case: an online insurance brokerage
+
+SEO, catalogue of insurance packages (combining several different basic insurances into something more valuable for customers), application, credit approval(analysis, antifraud, pricing, limit), transaction closing, billing, claim management, aggregation for reinsurance with a big name, reporting, commissioning
+
+
 # Modeling toolbelt
 
 ## Design Patterns beyond the DDD book
 
 - Classical Design Patterns that also are domain modeling patterns: State, Flyweight, Composite, Interpreter, Null Object, Interpreter, Strategy
 - Domain-oriented specializations: Conventions, Smart Identifier, Policy
-- Domain Modeling: Top-down defaulting, bottom up consolidation (derived values
+- Domain Modeling: Top-down defaulting, bottom up consolidation (derived values), Balanced Business Transaction (A quantity of 
+something, e.g. a product or service, exchanged against a quantity of something else, usually cash; can be bipolar, or polarized on one particular side)
 - Modeling principles for a more stable design: Congruence, Extrinsic/Extrinsic, Relative/Absolute, Upfront Variety, Cost/benefit now, vs Progressivity / Plasticity, Benchmark against another business domain
 
 ## Bounded Contexts archetypes
 
-Collaborative Construction, Actual Vs. Planed, Antagonist Purposes, Irreconcilable Differences (of shapes, accuracy, volume)
+Collaborative Construction, Actual Vs. Planed, Antagonist Purposes, Irreconcilable Differences (of shapes, accuracy, volume), the E-Commerce backbone
 
 Example of Tech Debt: when your current code is still a "tree plus dirty hacks" whereas you've now realized the problem is actually a "DAG" 
 
