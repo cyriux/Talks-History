@@ -16,7 +16,7 @@ Object Oriented Design skills, DDD notions. No pre-requisite in maths or functio
 
 # Business case: an online insurance brokerage
 
-SEO, catalogue of insurance packages (combining several different basic insurances into something more valuable for customers), application, credit approval(analysis, antifraud, pricing, limit), transaction closing, billing, claim management, aggregation for reinsurance with a big name, reporting, commissioning
+SEO, catalogue of insurance packages (combining several different basic insurances into something more valuable for customers), request for quote, credit approval (analysis, antifraud, limit), pricing (Monte Carlo on scenarios), transaction closing, billing, claim management (predicates), aggregation (monoids) for reinsurance with a big name, reporting, commissioning
 
 
 # Modeling toolbelt
