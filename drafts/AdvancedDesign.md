@@ -1,23 +1,62 @@
 
-Cette formation couvre un contenu exclusif créé par Cyrille Martraire, et va au-delà de la litérature classiques sur les sujets. Elle s'adresse à tout développeur/euse en charge de modéliser différents domaines métier de façon pertinente en vue d'en tirer un avantage compétitif.
+This training covers and exclusive training created by Cyrille Martraire, building on DDD and extending it with additional modeling guidance. It's targeted at developers involved in business domain modeling, to help craft sharper domain models that bring competitive advantage.
 
-Les exemples sont fréquemment tirés de l'univers de la finance et du e-commerce, mais peuvent être extrapolés à tout autre métier.
+## Duration: 
 
-    Comprendre les monoides sans jargon
-    Rappels rapides sur les Bounded Contexts
-    Design Patterns classiques dans leur déclinaison spécifique métier pour modéliser les domaines : State, Flyweight, Composite, Interpreter, Null Object, Interpreter, Strategy
-    Patterns DDD et leurs spécialisations : Conventions, Smart Identifier
-    Archétypes classiques de Bounded Contexts : Collaborative Construction, Actual / Planed, Make Money / Reduce Risk
-    Applications des monoides et abstractions composables pour la modélisation métier : Ranges, Cascaded Parameters, Object Template
-    Comprendre les concepts pour une meilleure stabilité du design : Intrinsèque / Extrinsèque, Relatif / Absolu
-    Conversions de concepts équivalents entre Bounded Contexts: enjeux
+From 1 to 2 days depending on the scope
 
-Durée : 2 jours Audience : Compétences en design objet, notions de DDD. Pas de pré-requis en maths ni en programmation fonctionnelle. Les exemples de code seront en Java.
+## Audience: 
 
-# Composability
+Object Oriented Design skills, DDD notions. No pre-requisite in maths or functional programming. Code examples will be given in Java, but exercises can be done in any language and without any specific framework or library.
+
+# Design Patterns beyond the DDD book
+
+- Classical Design Patterns that also are domain modeling patterns: State, Flyweight, Composite, Interpreter, Null Object, Interpreter, Strategy
+- Domain-oriented specializations: Conventions, Smart Identifier, Policy
+- Domain Modeling: 
+- Modeling principles: Congruence, Extrinsic/Extrinsic, Relative/Absolute 
+
+# Bounded Contexts archetypes
+
+Collaborative Construction, Actual Vs. Planed, Antagonist Purposes, Irreconcilable Differences (of shapes, accuracy, volume)
+
+# Composability Workshop, with Monoids inside
 
 For many reasons, composability is good. But how do we design to maximize the ability to be composed? And what does it really mean to be composable?
 Through interactive discussions with the audience we'll cover various aspects of the topic: mutable state, side-effects, error handling, interfaces design, desirable properties and even social aspects. The goal is to understand how composability works in order to better design for it.
+
+
+## Common Examples
+
+- predicates
+- quantities
+- ranges
+- grants // using order relation
+- maps & nested monoids,: Cascaded Parameters, Mergeable Documents (UPSERT read models), Object Template
+
+# From primitive monoids to domain concepts monoids
+
+Inheriting the properties from the encapsulated type(s) at the tuple : record-level 
+
+## Tricks to compose what doesn't compose 
+
+e.g. for SQL-ish. Map-reduce. Storm. 
+
+- ratio 
+- average, stdev
+- moving average
+- curves as polylines or splines
+- Histograms with same buckets, different buckets
+- (result, errors) // Turn into a tuple
+
+# Refactor your specs workshop
+
+- similar formulas to refactor into one: FX rate conversion, mix of discount & taxes...
+- arbitrary workflows to refactor into delegation + constant workflow
+- arbitrary workflows to refactor into topological sort + short-circuit + senior ranking
+- if country == ZAR, NIG, TURKEY or LIBYE then geopolitic risk analysis required -> if country in list of risky countries
+- if currency == ZAR, PHB, … -> illiquid currencies 
+- Supermarket kata
 
 # Critique my design!
 
