@@ -21,8 +21,7 @@ Object Oriented Design skills, DDD notions. No pre-requisite in maths or functio
 - Classical Design Patterns that also are domain modeling patterns: State, Flyweight, Composite, Interpreter, Null Object, Interpreter, Strategy
 - Domain-oriented specializations: Conventions, Smart Identifier, Policy
 - Domain Modeling: Top-down defaulting, bottom up consolidation (derived values
-- Modeling principles for a more stable design: Congruence, Extrinsic/Extrinsic, Relative/Absolute, Upfront Variety, Cost/benefit now, vs Progressivity / Plasticity 
-
+- Modeling principles for a more stable design: Congruence, Extrinsic/Extrinsic, Relative/Absolute, Upfront Variety, Cost/benefit now, vs Progressivity / Plasticity, Benchmark against another business domain
 
 ## Bounded Contexts archetypes
 
@@ -30,6 +29,7 @@ Collaborative Construction, Actual Vs. Planed, Antagonist Purposes, Irreconcilab
 
 Example of Tech Debt: when your current code is still a "tree plus dirty hacks" whereas you've now realized the problem is actually a "DAG" 
 
+> I once had the best ever domain expert, he was the CEO. We would sit on the table and discuss until we felt we got into the essence of the problem, or the underlying maths.
 
 # Composability Workshop, with Monoids inside
 
@@ -62,12 +62,29 @@ e.g. for SQL-ish. Map-reduce. Storm.
 
 # Refactor your specs workshop
 
+Premature Specification = lost opportunities
+  
 The "Human Compiler" anti-pattern
 
-- similar formulas to refactor into one: FX rate conversion, mix of discount & taxes...
+- similar formulas to refactor into one: FX rate conversion, mix of discount & taxes... Books are useful, but copying closed formulas verbatim is not how we build great products
 - Supermarket kata
 - From extensional to intensional: topological tree (e.g. Make build tool)
 - properties: zero-sum game, don't tax twice
+
+And of course: recognize and apply all the patterns from your toolbelt
+
+Start with concrete examples of all kinds (text, excel, visual...), sketching (cash flows diagrams, wiring boxes, workflows), exploratory code, model as code, metaphors (modular synth)
+
+Chase analogies, similarities 
+look for symmetries and invariants in domain: in sentences, visually, use your brain as a pattern finder, or in the code if not found before
+TDD: no duplication (Within a BC: cash management != legal), as expressive as possible
+
+Common part or structure of scenarios suggests refactoring. It may be subtle duplication hidden behind a different face.
+
+Generalize: a developer job! 
+Automated scenarios: make sure progression never regresses
+
+Progression: just like baby steps in TDD, move from rather simple examples to more complex, without gaps. Or diversity first : swap, future, option, FX to assess their major commonalities ASAP.
 
 ## Explicit Intent Modeling / mandate / decision rationale
 
@@ -152,6 +169,7 @@ Indexed interest rates, indexed apartment rent. Alias, e.g. "Leading Month", Spo
 The best design may be too good to be true.
 
 - CRUD by default: Not useful because we know so little everything's just a notebook at the moment: CRUD
+- Expand the Design-Requirements Grey Zone: Design Vs Requirements (Alistair Cockburn), or the different between discovering and inventing
 - Messy Domains: Identify early messy domains (subject to arbitary external or historical peculiarities) vs strictly regular domains (that you own, or that only depend on pure logic reasoning)
 - Intelligence Cap: Using concepts not everybody involved can understand is irrelevant, 
 
