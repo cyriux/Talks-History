@@ -1,6 +1,6 @@
 # Learn hands-on with Cyrille the delicate art of designing sharp domain models.
 
-Learn in practice how to make your models smarter, how to raise the declarativeness level of your code and how to make it more composable, using proven modeling patterns byeond the DDD book. You'll work on examples, and we'll cover proven patterns beyond the DDD books.
+Learn in practice how to make sharper models, smarter, how to raise the declarativeness level of your code and how to make it more composable, using proven modeling patterns beyond the DDD book. You'll work on examples, and we'll cover proven patterns beyond the DDD books.
 
 This training covers and exclusive training created by Cyrille Martraire, building on DDD and extending it with additional modeling guidance. It's targeted at developers involved in business domain modeling, to help craft sharper domain models that bring competitive advantage.
 
@@ -29,6 +29,10 @@ SEO, catalogue of insurance packages (combining several different basic insuranc
 something, e.g. a product or service, exchanged against a quantity of something else, usually cash; can be bipolar, or polarized on one particular side)
 - Modeling principles for a more stable design: Congruence, Extrinsic/Extrinsic, Relative/Absolute, Upfront Variety, Cost/benefit now, vs Progressivity / Plasticity, Benchmark against another business domain
 
+Exercise:
+- Refactor from case by case to flyweight for aggregating risks and for early termination (reverse operation)
+- Smart Identifier (car internal ID, car number plate, owner name)
+
 ## Bounded Contexts archetypes
 
 Collaborative Construction, Actual Vs. Planed, Antagonist Purposes, Irreconcilable Differences (of shapes, accuracy, volume), the E-Commerce backbone
@@ -49,6 +53,10 @@ Through interactive discussions with the audience we'll cover various aspects of
 - Ranges
 - Grants // using order relation
 - Maps & nested monoids: Cascaded Parameters, Mergeable Documents (UPSERT read models), Object Template
+
+Exercises: 
+- Claim Management/ Loss Coverage, Amount of the coverage, Exclusions, with precedence
+- Billing/ Premium sequence over time (payments)
 
 ## From primitive monoids to domain concepts monoids
 
