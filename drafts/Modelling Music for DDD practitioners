@@ -1,0 +1,18 @@
+# Modelling Music for DDD practitioners
+
+Most introductory material on music focuses on melody, rhythm and harmony, in the tradition of written classical music. Yet, there's much more than that in music! Playing and creating instruments, sound synthesis, psycho-acoustic perception and illusions, how all this is shaping musical genres, interactions of musicians or DJ with the audience, MIDI production techniques... these all sound like Bounded Contexts to the DDD practitioner. 
+Through this session we'll model parts of the rich domain of music with Java and Arduino, highlighting how it is really an application of DDD. With some home-made cheesy video, you'll discover and understand music in a new light, and you'll feel like doing your own experiments back at home! 
+
+## Additional Information
+
+This talk builds on my past experience, in particular personal projects I've done around music in Java and Arduino:
+
+- Creating a *playable* instrument: balancing spontaneity and expressiveness vs difficulty to play in rhythm and in tune (Light Air Guitar using a quantized pentatonic scale plus Smart Pitch Bending)
+- Literally modeling a hardware machine (the iconic Hip-Hop Akai MPC) in software (my famous MPC Maid editor for the Akai MPC 500-2000)
+- Putting the Groove into equations (Swing %), and how it defined music genres (when introduced in TR808 and Akai MPC), with a concrete Arduino application to groove the MIDI clock
+- Rhythmic Onsets detection & MIDI Sequencing (MPC Maid auto-slicing tool, and how it enables simple time-stretching)
+- Automatic classification of sound samples by FFT, Features Extraction and Support Vector Machine (failed experiment but still interesting) 
+- Exploring Aesthetics of music: The Wundt Curve and self-similarity of musical patterns, e.g. Fugue, or Rhythmic Layering (a simple Generative Sequencer)
+- Shyness and social inhibition, and how anonymity helps (our various social experiments of Jam Sessions at home with very shy non-musicians, how sound effects that make your voice unrecognizable help, and my past DJ experience dealing with small or large crowds)
+
+I'll show code along with (audio and video recordings)[https://vimeo.com/user1310376] to illustrate the content. The challenge is to keep it short and affordable for full beginners, but for a geek audience I'm not that worried.
