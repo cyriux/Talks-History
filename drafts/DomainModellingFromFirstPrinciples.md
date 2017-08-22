@@ -6,11 +6,22 @@ Reasoning from first principles takes a lot of mental energy, but it is the key 
 
 Join Cyrille Martraire for a whole day where you will learn how to deconstruct domain models until you reach their substantial first principles. We'll start from feature requests as on a real project, and we'll crunch them through code refactoring and through critical analysis, leading to insights and smarter implementation in the resulting code.
 
-Refactor your specs workshop
+## Contents
+
+- Refactorings to hint at business insights
+- Where does this calculation come from? Reversing a formula into its components, leading to an interpreter and a better separation of distinct concerns
+- Where do lists of values come from? From bigger lists! From extensional to intentional modelling.
+- Play the Business Analyst - Specify this feature (and experience yourself the bias of the job)
+- Drawing domain-specific notations to hint at business insights (payments, workflow)
+- Deconstructing workflows from first principles: where does this workflow come from?
+- Discussion: When reasonong by analogy works best
+- Discussion: smarter models tend to be rigid, and how to avoid that.
+
+## Notes
 
 - DRY: similar formulas to refactor into one: anniversary dates & payments calculations
 - SRP mix of discount & taxes… FX rate conversion
-- From extensional to intentional: if currency == ZAR, PHB, … -> illiquid currencies 
+- if currency == ZAR, PHB, … -> illiquid currencies
 - Supermarket kata, the Human Compiler
 - Smarter means more rigid: OCP at every level to hedge
 - Split/Join dichotomy: Fragmenting into Bounded Context vs Merging special cases into a systematic model
