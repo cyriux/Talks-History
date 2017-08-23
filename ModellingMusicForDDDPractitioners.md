@@ -16,3 +16,6 @@ This talk builds on my past experience building personal research projects I've 
 - Shyness and social inhibition, and how anonymity changes everything (we used to make some social experiments of Jam Sessions at home with very shy  non-musicians colleagues, showing how sound effects that make your voice unrecognisable help, plus my past DJ experience dealing with small or large crowds)
 
 I'll show code along with audio and video recordings, e.g. (audio and video recordings)[https://vimeo.com/user1310376] to illustrate the content. The challenge is to keep the talk short and affordable for full beginners, while still showing enough in-depth DDD for the DDD Police :)
+
+## Keywords
+music, DDD, modelling, rhythm, groove, how things work, Bounded Contexts, fun, audio, geek
