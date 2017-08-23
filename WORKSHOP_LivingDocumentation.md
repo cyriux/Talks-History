@@ -10,7 +10,7 @@ This workshop from Cyrille Martraire, the author of the book "living Documentati
 - How just talking and working together may be enough documentation, and when it does not
 - How to augment the code to make it fully explicit for further use by people and tools
 - How to differentiate between stable and volatile knowledge, and how this informs the way to deal with it
-- How to create sero-maintainance Evergreen Documents
+- How to create zero-maintainance Evergreen Documents
 - How to recognize Shameful Comments and improve your code from there
 - How a word cloud can tell if you're doing your domain model wrong
 - How to generate a Living Glossary straight out of the code
@@ -26,3 +26,5 @@ This workshop from Cyrille Martraire, the author of the book "living Documentati
 - A working Java 8 environment with Maven for two attendees
 - The sample project (only using basic Java) will be available from github or from a USB key
 
+## Keywords
+Living Documentation, BDD, DDD, Living Glossary, Living Diagram, Guided Tour, ADR, Evergreen, collaboration, Augmented Code, word cloud
