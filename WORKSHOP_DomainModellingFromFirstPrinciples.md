@@ -8,7 +8,7 @@ Join Cyrille Martraire for a whole day where you will learn how to deconstruct d
 
 ## What you will learn through practice
 
-- How to turn *hardcoded* business logic into *dynamic adaptive* behavior
+- How to turn *hardcoded* business logic into *dynamic adaptive* behaviour
 - How to upgrade *maintenance-heavy* configuration lists into *zero-maintenance* criteria
 - How to reverse a formula into its component terms, leading to fewer code, more flexible design and a better separation of concerns
 - How to deconstruct a possibly large set of workflows into the few first principles that generate them
@@ -17,7 +17,7 @@ Join Cyrille Martraire for a whole day where you will learn how to deconstruct d
 - How code refactorings, drawing domain-specific notations, domain language and language structure can suggest deeper business insights
 - How splitting the roles of specifying vs. implementing leads to sub-optimal results
 - How *strategic planning of features* can dramatically accelerate discovery of the first principles too
-- And how this powerful approach can turn *boring business specs* into a *dangerously seductive game*, leading to a new form of developer procratination!
+- And how this powerful approach can turn *boring business specs* into a *dangerously seductive game*, leading to a new form of developer procrastination!
 
 ## What you will need
 
@@ -26,3 +26,6 @@ Join Cyrille Martraire for a whole day where you will learn how to deconstruct d
 - A personal interest for not taking specifications for granted
 - A computer with a basic working programming environment in your favorite programming language, whatever it is. All examples will be given in Java 8 and Maven.
 
+## Keywords
+
+Refactoring, Supple Design, Reverse-Engineering, Modelling Patterns, Code Compression, Abstractions, workflows
