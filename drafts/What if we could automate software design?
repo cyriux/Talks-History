@@ -8,12 +8,17 @@ Through this talk I want to explore the ideas already there, propose some practi
 
 As a human developer I absolutely love doing software design myself, so I'm a bit reluctant to let it go to the machines. Will we have to adapt?
 
-## Outline
+## Additional Information & Outline
+
+This proposal is more like a "position paper" on a topic I've had in my mind for a while, but still not mature. Here's the outline I have at the moment:
 
 - From code accumulation to basic refactoring, and how it can be automated in simple cases
 - F# Type Providers, it’s daily life for lucky practitioners already, and we'll see how it works
 - "Crime as a Code Scene" code forensic techniques by Adam Thornhill
 - MOOSE and how Latent Semantic Indexing can suggest lexically consistent modules, and perhaps Bounded Contexts
-- Some proposals: calls stack clustering, tests subsumption (code), automating TPP, fuzzy similarity earch & compression techniques
-- Imagining an Append-Only, self-refactorable programming language
+- Some other proposals: calls stack clustering, tests subsumption, automating TPP, fuzzy similarity search & compression techniques
+- Imagining an Append-Only, self-refactorable programming language that we would name Tetris
 - Main Challenges
+
+## Keywords
+Software Design, automation, mass refactoring, semi-automatic, inference, TDD, semantic analysis
