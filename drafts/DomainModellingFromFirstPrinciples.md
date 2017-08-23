@@ -6,19 +6,30 @@ Reasoning from first principles takes a lot of mental energy, but it is the key 
 
 Join Cyrille Martraire for a whole day where you will learn how to deconstruct domain models until you reach their substantial first principles. We'll start from feature requests as on a real project, and we'll crunch them through code refactoring and through critical analysis, leading to insights and smarter implementation in the resulting code.
 
-## Contents
+## What you will learn through practice
 
-- Refactorings to hint at business insights
-- Where does this calculation come from? Reversing a formula into its components, leading to an interpreter and a better separation of distinct concerns
+- How to turn hardcoded business logic into dynamic, adaptive behavior
+- How to upgrade maintenance-heavy configuration lists into zero-maintenance criteria
+- How to reverse a formula into its component terms, leading to fewer code, more flexible design and a better separation of concerns
+- How to deconstruct a possibly large set of workflows into the few first principles that generate them
+- How code refactorings can hint at deeper business insights
+- How drawing domain-specific notations, domain language and language structure can suggest business insights
+- How splitting the roles of specifying vs. implementing leads to sub-optimal results
+- How domain modelling patterns help accelerate discovery of the first principles
+- How strategic planning of features can dramatically accelerate discovery of the first principles too
+- How modelling from first principles is usually local within a Bounded Context
+- AND How this powerful approach can turn boring business specs into a dangerously seductive game, leading to a new form of developer procratination!
+
+## Notes
+
+- Where does this calculation come from? 
+- where does this workflow come from?
 - Where do lists of values come from? From bigger lists! From extensional to intentional modelling.
 - Play the Business Analyst - Specify this feature (and experience yourself the bias of the job)
 - Drawing domain-specific notations to hint at business insights (payments, workflow)
 - Deconstructing workflows from first principles: where does this workflow come from?
 - Discussion: When reasonong by analogy works best
 - Discussion: smarter models tend to be rigid, and how to avoid that.
-
-## Notes
-
 - DRY: similar formulas to refactor into one: anniversary dates & payments calculations
 - SRP mix of discount & taxes… FX rate conversion
 - if currency == ZAR, PHB, … -> illiquid currencies
