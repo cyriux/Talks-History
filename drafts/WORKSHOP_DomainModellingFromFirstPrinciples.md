@@ -8,16 +8,16 @@ Join Cyrille Martraire for a whole day where you will learn how to deconstruct d
 
 ## What you will learn through practice
 
-- How to turn hardcoded business logic into dynamic adaptive behavior
-- How to upgrade maintenance-heavy configuration lists into zero-maintenance criteria
+- How to turn *hardcoded* business logic into *dynamic adaptive* behavior
+- How to upgrade *maintenance-heavy* configuration lists into *zero-maintenance* criteria
 - How to reverse a formula into its component terms, leading to fewer code, more flexible design and a better separation of concerns
 - How to deconstruct a possibly large set of workflows into the few first principles that generate them
-- How modelling from first principles is usually local within a Bounded Context
-- How domain modelling patterns help accelerate discovery of the first principles
+- How modelling from first principles relates to Bounded Contexts
+- How *domain modelling patterns* help accelerate discovery of the first principles
 - How code refactorings, drawing domain-specific notations, domain language and language structure can suggest deeper business insights
 - How splitting the roles of specifying vs. implementing leads to sub-optimal results
-- How strategic planning of features can dramatically accelerate discovery of the first principles too
-- And how this powerful approach can turn boring business specs into a dangerously seductive game, leading to a new form of developer procratination!
+- How *strategic planning of features* can dramatically accelerate discovery of the first principles too
+- And how this powerful approach can turn *boring business specs* into a *dangerously seductive game*, leading to a new form of developer procratination!
 
 ## What you will need
 
