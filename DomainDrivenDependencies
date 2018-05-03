@@ -1,0 +1,11 @@
+#  Domain-Driven Dependencies 
+
+Dependencies come in many forms, from binary libraries to JSON contracts for example. While they are necessary to build complex systems, dependencies are also the cause of a lot of headaches, and learning how to better deal with them makes your life less miserable in the long run.
+
+Though this talk you'll explore the universe of dependencies in the light of Domain-Driven Design. From the good old Hexagonal Architecture and its variants, the dependencies between Tactical Patterns at small scale to Cohesive Mechanisms or the Levels of Responsibility at a larger scale, you'll discover guiding principles that you can use to improve your design taste for great good.
+
+# Notes
+
+Created for DDDx 2018, great feedback
+
+Keywords: maintenance-effort, modules, architecture, hexagonal, layers, dependencies, bounded-contexts, design, ddd
