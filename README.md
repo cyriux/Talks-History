@@ -14,12 +14,14 @@ Since I've launched the Paris Software Craftsmanship Community in 2011 I've been
 
 > Briefly: Øredev 2013 (Malmö), DDD Europe 2016 (Keynote in Bruxelles), 2017 (Amsterdam), NCrafts 2015, 2016 (Paris), Devoxx France 2012, 2014, 2015, 2016 (Paris), DDDx New-York City 2014 (US), DDDx London 2012, 2014, 2015, 2016 (UK), Agile Hong-Kong 2016 (HK) and many other in France and Europe.
 
-- Keynote DDD Europe 2016 (Bruxelles), talk at DDD Europe 2017 (Amsterdam)
+- Keynote DDD Europe 2016 (Bruxelles), talks 2017, workshops 2018 (Amsterdam)
 - Oredev 2013 (Malmö)
-- NCrafts 2015, 2016 (Paris)
-- Devoxx France 2012, 2014, 2015, 2016 (Paris)
-- DDDx London 2012, 2014, 2015, 2016 (UK)
+- NCrafts 2015, 2016, 2018 (Paris)
+- Devoxx France 2012, 2014, 2015, 2016, 2018 (Paris)
+- DDDx London 2012, 2014, 2015, 2016, 2017, 2018 (UK)
 - DDDx New-York City 2014 (US)
+- GeeCon Krakow 2017, Prague 2018
+- P3X London 2018
 - Agile Hong-Kong 2016 (HK)
 - ITAKE Bucharest 2012, 2015
 - Agile France 2013, 2014, 2015, 2016
@@ -66,6 +68,7 @@ Some of my past videos online, and feedbacks.
 
 ### French
 
+- Être architecte logiciel en 2018 (French) - A 3-hour Devoxx France University, together with Arnauld Loyer: https://www.youtube.com/watch?v=1igv2rHGKfo
 - Hexagonal Architecture to future-proof your system! (French) - A 3-hour Devoxx France University, together with Thomas Pierrain: https://www.youtube.com/watch?v=wZ7cxcU4iPE
 - Property-Based Testing, from testing to design, for everyone (French) - Another 3-hour Devoxx France University, together with Romeu Moura: https://www.youtube.com/watch?v=O-LWbSUaEQU 
 - https://www.parleys.com/talk/extremist-programming-lart-de-samuser-avec-du-code
