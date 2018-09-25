@@ -12,7 +12,7 @@ Cyrille also has an extensive knowledge of capital market finance, and he's the 
 
 # Trainings
 
-##Trainings designed and given commercially
+## Trainings designed and given commercially
 
 - Domain-Driven Design 
 - Behavior-Driven Development
