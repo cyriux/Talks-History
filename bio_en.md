@@ -10,6 +10,24 @@ Cyrille Martraire (@cyriux) is CTO and partner at Arolla (@ArollaFr), the founde
 
 Cyrille also has an extensive knowledge of capital market finance, and he's the author of the book Living Documentation published by Addison-Wesley Professional.
 
+# Publications
+
+- Book 'Living Documentation', 384 pages, Addison-Wesley Professional (Pearson), ISBN-13: 978-0134689326
+
+# Public Speaking (Summary)
+
+- Devoxx France (2012-2018 - 7 talks, 3 universities)
+- DDD eXchange London (2012 - 2018 - 6 talks)
+- NewCraft Paris (2014 - 2018 - 4 talks)
+- DDD Europe Amsterdam (2016 - 2018 - 1 keynote, 2 talks, 2 workshops)
+- GeeCON Krakow, Prague
+- Oredev 2013 Malmô (Sweden)
+- DDD eXchange New-York (USA) 2014
+- ITAKE Bucarest (2 talks, 2 workshops)
+- Agile France (2013 - 2017 - 5 talks), Scrum Day (1 talk, 1 workshop), Lean Kanban FR
+- Agile Hong-Kong
+- And many other national conferences: Codeurs en Seine, BDX.IO, etc.
+
 # Trainings
 
 ## Trainings designed and given commercially
@@ -17,8 +35,8 @@ Cyrille also has an extensive knowledge of capital market finance, and he's the 
 - Domain-Driven Design 
 - Behavior-Driven Development
 - Test-Driven Development (katas, code retreats)
-- Living Documentation
-- Modeling from First Principles
+- Living Documentation (Craft-Conf Budapest, NewCraft, DDD Europe)
+- Modeling from First Principles (DDD Europe)
 - Microservices with TDD
 - Pragmatic Architecture
 
