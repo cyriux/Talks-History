@@ -23,6 +23,8 @@ Cyrille also has an extensive knowledge of capital market finance, and he's the 
 - GeeCON Krakow, Prague
 - Oredev 2013 Malmô (Sweden)
 - DDD eXchange New-York (USA) 2014
+- Voxxed Microservices 2018
+- Software Craftsmanship London 2018
 - ITAKE Bucarest (2 talks, 2 workshops)
 - Agile France (2013 - 2017 - 5 talks), Scrum Day (1 talk, 1 workshop), Lean Kanban FR
 - Agile Hong-Kong
