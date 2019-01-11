@@ -1,0 +1,11 @@
+# Hexagonal at Scale, où l'art de découper et organiser ses services
+
+Les Microservices ont absolument besoin de DDD. La notion de Bounded Contexts, un ingrédient-clé de DDD, est l'outil de choix pour définir des contours de services qui ne vont pas mener au désastre au runtime et ou au moment de déployer. Ce talk vous donnera une meilleure compréhension de ce concept et de son intérêt dans le contexte d'une architecture de plus en plus distribuée. Surtout, vous découvrirez comment vraiment découper votre monolithe avec de nombreux conseils. Nous évoquerons aussi quand appliquer, ou non, le style Hexagonal, parce qu'il ne faut pas abuser des bonnes choses. Et tout cela avec du fun et quelques surprises !
+
+## Notes 
+
+Présenté à Voxxed Days Microservices, où Linda van der Pal (Java Champion, founder of Duchess, co-organizer of @Devoxx4KidsNL) a déclaré l'avoir apprécié :
+
+> My favorite this year was Hexagonal at scale, with DDD and microservices  by @cyriux: - We had to rewrite our entire sample application for our workshop due to your presentation! ;)
+
+https://twitter.com/DuchessFounder/status/1072427264195903489
