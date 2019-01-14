@@ -2,9 +2,8 @@
 
 Les dépendances existent sous de multiples formes, les librairies binaires aux contrats JSON étant deux exemples. Bien qu'indispensables pour construire des systèmes complexes, les dépendances sont aussi la cause de nombreux maux. C'est pourquoi apprendre à mieux les manipuler est l'une des clés pour rendre votre vie moins misérable à long terme.
 
-Dans ce talk, vous explorerez l'univers des dépendances en design logiciel, et notamment au travers du prisme de Domain-Driven Design. De la bonne vieille Architecture Hexagonale aux dépendances dans les design patterns classiques ou tactiques, jusqu'aux concepts moins connus tels que les Cohesive Mechanisms ou les Levels of Responsibility à plus grande échelle. Vous découvrirez les principes pour vous guider et améliorer votre sens du design pour le meilleur.
-
+Dans ce talk, vous explorerez l'univers des dépendances en design logiciel, et notamment au travers du prisme de Domain-Driven Design. De la bonne vieille Architecture Hexagonale aux dépendances dans les design patterns classiques ou tactiques, jusqu'aux concepts moins connus tels que les Cohesive Mechanisms ou les Levels of Responsibility à plus grande échelle, vous découvrirez les principes pour vous guider et améliorer votre sens du design pour le meilleur.
 ## Notes
 
-Originalement crée pour la conférence DDD eXchange à Londre en 2018, avec de très bons retours, le talk commence par une revue de ce qu'il faut absolument savoir pour bien comprendre les enjeux des dépendances, avant d'élaborer vers des patterns DDD moins connus mais de plus en plus utiles par exemple dans des systèmes distribués et à équipes multiples. 
+Originalement crée pour la conférence DDD eXchange à Londre en 2018, avec de très bons retours, le talk commence par une revue de ce qu'il faut absolument savoir pour bien comprendre les enjeux des dépendances, avant d'élaborer vers des patterns DDD moins connus mais de plus en plus utiles, par exemple dans des systèmes distribués et à équipes multiples. 
 
