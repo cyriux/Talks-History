@@ -2,7 +2,7 @@
 
 If you prefer coding over writing documentation, then you’ll love Living Documentation! A Living Documentation changes at the same pace as software design and development, from establishment of business goals to capturing domain knowledge, creating architecture, designing software and coding. It builds on top of BDD and DDD, but it also has its own key principles and novels ways to dramatically improve your documentation at minimal extra cost by using well-crafted artifacts and judicious automation. 
 
-This workshop from Cyrille Martraire, the author of the book "living Documentation" (Addison-Wesley Professional), will guide you on how to implement the approach in your projects. Even if you haven't read the book, this workshop is the right place to learn the main elements of a Living Documentation, step by step through a provided sample Java code base.
+This workshop from Cyrille Martraire, the author of the book "Living Documentation" (Addison-Wesley Professional, www.informit.com/livingdoc), will guide you on how to implement the approach in your projects. Even if you haven't read the book, this workshop is the right place to learn the main elements of a Living Documentation, step by step through a provided sample Java code base.
 
 ## You will learn
 
