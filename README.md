@@ -4,21 +4,23 @@
 
 Hey! I'm [@cyriux on Twitter](https://twitter.com/cyriux) and on [LinkedIn](https://www.linkedin.com/in/martraire)
 
-Please find here the list of my past and current talks descriptions, along with my speaker bios (FR, EN).
-
-> I wrote a book **Living Documentation**, published by [Pearson/Addison-Wesley Professionals](http://www.informit.com/livingdoc) after a first life on Leanpub. I'm helping development teams get better at software design and Domain-Driven Design in particular through talks, workshops and teaching training courses everywhere.
+I wrote a book **Living Documentation**, published by [Pearson/Addison-Wesley Professionals](http://www.informit.com/livingdoc) after a first life on Leanpub. I'm helping development teams get better at software design and Domain-Driven Design in particular through talks, workshops and teaching training courses everywhere.
 
 Since I've launched the Paris Software Crafters (formerly known as Craftsmanship) Community in 2011 I've been speaking in many conferences a bit everywhere. My talks usually revolve around DDD, Design & Software Craft practices in general. My focus is on exploring our design & collaborative practices to improve our job of working with software in the long term. Related to that, an important goal in my talks and my book is to make design skills more popular for a mainstream audience, while being fun and entertaining.
 
 ## Overview
 
-> Briefly: Øredev 2013 (Malmö), DDD Europe 2016 (Keynote in Bruxelles), 2017 (Amsterdam), NCrafts 2015, 2016 (Paris), Devoxx France 2012, 2014, 2015, 2016 (Paris), DDDx New-York City 2014 (US), DDDx London 2012, 2014, 2015, 2016 (UK), Agile Hong-Kong 2016 (HK) and many other in France and Europe.
+Publications: 
+- [Living Documentation, Continuous Knowledge Sharing by Design](http://www.informit.com/livingdoc), publisher Pearson - Addison-Wesley Professionals, available on [Amazon](https://www.amazon.com/dp/0134689321)
+- [15 Years of DDD, Essays from the DDD Community](https://leanpub.com/ddd_first_15_years): A chapter on monoids for domain modeling, [also available here](https://www.arolla.fr/blog/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf)
+
+Briefly: Øredev 2013 (Malmö), DDD Europe 2016 (Keynote in Bruxelles), 2017 (Amsterdam), NCrafts 2015, 2016 (Paris), Devoxx France 2012, 2014, 2015, 2016 (Paris), DDDx New-York City 2014 (US), DDDx London 2012, 2014, 2015, 2016 (UK), Agile Hong-Kong 2016 (HK) and many other in France and Europe.
 
 ### Keynotes
 
-- DDD Europe 2016 (Bruxelles)
-- Codeur en Seine 2014 (Rouen)
-- Sunny Tech 2019 (Montpellier)
+- **DDD Europe** 2016 (Bruxelles)
+- **Codeur en Seine** 2014 (Rouen)
+- **Sunny Tech** 2019 (Montpellier)
 
 ### Conference Talks & Workshops
 
@@ -42,14 +44,6 @@ For example in 2015 I spoke at 19 events.
 
 Also member of the Devoxx France Program Commitee from 2015 to 2017.
 
-## Complete history
-
-A complete list of my past speaking history is on [Lanyrd](http://lanyrd.com/profile/cyriux) (provided Lanyrd is not down), or on [Eventil](https://eventil.com/users/cyriux).
- 
-## My book (Leanpub and soon Pearson)
-
-I'm writing a book [Living Documentation on Leanpub](https://leanpub.com/livingdocumentation) which has been signed by Pearson/Addison Wesley.
-
 ## Slides
 
 [Slideshare](http://www.slideshare.net/cyriux/)
@@ -57,8 +51,11 @@ I'm writing a book [Living Documentation on Leanpub](https://leanpub.com/livingd
 For example:
 
 - http://www.slideshare.net/cyriux/ur-domain-haz-monoids
+ 
 
 ## Videos & Coverage
+
+The review of my book on Infoq: https://www.infoq.com/articles/book-review-living-documentation/
 
 Some of my past videos online, and feedbacks.
 
@@ -87,3 +84,6 @@ Some of my past videos online, and feedbacks.
 ## Misc
 
 http://www.gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3
+
+A (not up-to-date) list of my past speaking history is on [Lanyrd](http://lanyrd.com/profile/cyriux) (provided Lanyrd is not down), or on [Eventil](https://eventil.com/users/cyriux).
+
