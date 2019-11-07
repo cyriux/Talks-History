@@ -2,36 +2,45 @@
 
 ![My picture on gravatar](http://www.gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3)
 
-Hey! I'm [@cyriux on Twitter](https://twitter.com/cyriux)
+Hey! I'm [@cyriux on Twitter](https://twitter.com/cyriux) and on [LinkedIn](https://www.linkedin.com/in/martraire)
 
 Please find here the list of my past and current talks descriptions, along with my speaker bios (FR, EN).
 
-> I wrote a book "Living Documentation by Design" on Leanpub which has now been signed by Pearson/Addison-Wesley. I'm helping development teams get better at software design and Domain-Driven Design in particular through talks, workshops and teaching training courses everywhere.
+> I wrote a book **Living Documentation**, published by [Pearson/Addison-Wesley Professionals](http://www.informit.com/livingdoc) after a first life on Leanpub. I'm helping development teams get better at software design and Domain-Driven Design in particular through talks, workshops and teaching training courses everywhere.
 
-Since I've launched the Paris Software Craftsmanship Community in 2011 I've been speaking in many conferences a bit everywhere. My talks usually revolve around DDD, Design & Software Craftsmanship practices in general. My focus is on exploring our design practices to improve our job of working with software in the long term. Related to that, an important goal in my talks and my book is to make design skills more popular for a mainstream audience, while being fun and entertaining.
+Since I've launched the Paris Software Crafters (formerly known as Craftsmanship) Community in 2011 I've been speaking in many conferences a bit everywhere. My talks usually revolve around DDD, Design & Software Craft practices in general. My focus is on exploring our design & collaborative practices to improve our job of working with software in the long term. Related to that, an important goal in my talks and my book is to make design skills more popular for a mainstream audience, while being fun and entertaining.
 
 ## Overview
 
 > Briefly: Øredev 2013 (Malmö), DDD Europe 2016 (Keynote in Bruxelles), 2017 (Amsterdam), NCrafts 2015, 2016 (Paris), Devoxx France 2012, 2014, 2015, 2016 (Paris), DDDx New-York City 2014 (US), DDDx London 2012, 2014, 2015, 2016 (UK), Agile Hong-Kong 2016 (HK) and many other in France and Europe.
 
-- Keynote DDD Europe 2016 (Bruxelles), talks 2017, workshops 2018 (Amsterdam)
-- Oredev 2013 (Malmö)
-- NCrafts 2015, 2016, 2018 (Paris)
-- Devoxx France 2012, 2014, 2015, 2016, 2018 (Paris)
-- DDDx London 2012, 2014, 2015, 2016, 2017, 2018 (UK)
-- DDDx New-York City 2014 (US)
+### Keynotes
+
+- DDD Europe 2016 (Bruxelles)
+- Codeur en Seine 2014 (Rouen)
+- Sunny Tech 2019 (Montpellier)
+
+### Conference Talks & Workshops
+
+- **DDD Europe** since 2016 (Brussels then Amsterdam)
+- **NewCrafts** since 2015 (Paris)
+- **Devoxx France** since 2012 (Paris)
+- **muCon** (formerly **DDDx London**) since 2012 (London)
+- **P3X** since 2018 (London) 
+- **Oredev** 2013 (Malmö)
+- **FlowCon** (formerly Lean Kanban France) 2016, 2019 (Paris)
+- DDDx **New-York City** 2014 (US)
+- Agile **Hong-Kong** 2016 (HK)
 - GeeCon Krakow 2017, Prague 2018
-- P3X London 2018
-- Agile Hong-Kong 2016 (HK)
 - ITAKE Bucharest 2012, 2015
-- Agile France 2013, 2014, 2015, 2016
+- Agile France 2013-2016
 - Scrum Day Paris 2013, 2015
 - Socrates Germany 2012, 2014, 2015, Socrates France, Codefreeze
-- Agile tour across France, BDX.IO, Codeurs en Seine...
+- Agile tour Lille, Bordeaux, Grenoble etc. BDX.IO, Codeurs en Seine, NewCraft Bordeaux, Sunny Tech...
 
 For example in 2015 I spoke at 19 events.
 
-Also member of the Devoxx France 2015-2016-2017 Program Commitee.
+Also member of the Devoxx France Program Commitee from 2015 to 2017.
 
 ## Complete history
 
