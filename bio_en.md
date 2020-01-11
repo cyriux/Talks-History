@@ -10,6 +10,10 @@ Cyrille Martraire (@cyriux) is CTO and partner at Arolla (@ArollaFr), the founde
 
 Cyrille also has an extensive knowledge of capital market finance, and he's the author of the book Living Documentation published by Addison-Wesley Professional.
 
+# Bio short
+
+Author of the book Living Documentation, partner at Le Singe Cuivre, CTO and partner at Arolla, founder of the Paris Software Crafters community, regular speaker at international conferences. 20yrs of experience in software design, DDD & finance.
+
 # Publications
 
 - Book 'Living Documentation', 384 pages, Addison-Wesley Professional (Pearson), ISBN-13: 978-0134689326
