@@ -4,6 +4,7 @@ Most introductory material on music focuses on melody, rhythm and harmony, in th
 Through this session we'll model parts of the rich domain of music with Java and Arduino, in what's really an application of DDD. With some home-made cheesy video, you'll discover and understand music in a new light, and you'll feel like doing your own experiments back at home! 
 
 (fr)
+Mieux comprendre Domain-Driven Design en modélisant la musique
 Modéliser la musique pour les praticiens de Domain-Driven Design
 
 Quand on pense à la théorie de la musique on pense immédiatement à la mélodie, au rythme et à l'harmonie, dans la tradition de la musique occidentale écrite. Mais ce sujet a tellement d'autres facettes à explorer ! Jouer et inventer des instruments, faire de la synthèse sonore, la perception du rythme, les instruments électroniques et comment tout cela façonne de nouveaux genres musicaux... tout cela sonne comme autant de "bounded contexts" pour les praticiens DDD.
