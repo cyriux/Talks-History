@@ -6,9 +6,9 @@ Through this session we'll model parts of the rich domain of music with Java and
 (fr)
 Modéliser la musique pour les praticiens de Domain-Driven Design
 
-Quand on pense à la théorie de la musique on pense immédiatement à la mélodie, au rythme et à l'harmonie, dans la tradition de la musique classique écrite. Mais ce sujet a tellement d'autres facettes à explorer ! Jouer et inventer des instruments, faire de la synthèse sonore, la perception du rythme, les instruments électroniques et comment tout cela façonne de nouveaux genres musicaux. Et tout ça sonne comme des bounded context pour les praticiens DDD.
+Quand on pense à la théorie de la musique on pense immédiatement à la mélodie, au rythme et à l'harmonie, dans la tradition de la musique occidentale écrite. Mais ce sujet a tellement d'autres facettes à explorer ! Jouer et inventer des instruments, faire de la synthèse sonore, la perception du rythme, les instruments électroniques et comment tout cela façonne de nouveaux genres musicaux... tout cela sonne comme autant de "bounded contexts" pour les praticiens DDD.
 
-Au travers de cette session nous explorerons des modélisation du domaine riche qu'est la musique avec des fragments de Java ou d'Arduino, dans ce qui est réellement une application des notions de DDD. Avec quelques vidéo faites maison un peu kitch, vous découvrirez et comprendrez la musique, et DDD à la fois, sous un nouveau jour, et vous serez tentés de faire votre propres expérimentations de retour chez vous !
+Au travers de cette session nous explorerons des modélisation du domaine riche qu'est la musique avec des fragments de Java ou d'Arduino, dans ce qui constitue de fait une application des notions de DDD. Avec quelques vidéo faites maison un peu kitch, vous découvrirez et comprendrez à la fois la musique et DDD sous un nouveau jour, et vous serez tentés de faire votre propres expérimentations de retour chez vous !
 
 
 ## Additional Information & outline
