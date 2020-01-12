@@ -25,17 +25,18 @@ This talk builds on my past experience building personal research projects I've 
 I'll show code along with audio and video recordings, e.g. (audio and video recordings)[https://vimeo.com/user1310376] to illustrate the content. The challenge is to keep the talk short and affordable for full beginners, while still showing enough in-depth DDD for the DDD Police :)
 
 (fr)
-Ce talk a été présenté une fois (non filmée) à NewCraft Bordeaux en octobre 2019, avec de bons retours.
+Ce talk a été présenté une fois (en anglais, non filmée) à NewCraft Bordeaux en octobre 2019, avec de bons retours.
 
-Le format est éducatif et divertissant à la fois, avec une succession de projets musicaux qui servent de support concrets pour présenter des notions abstraites de DDD :
+Le thème pourrait aussi être en Mind-the-Geek.
+
+Le format est éducatif et divertissant à la fois, avec une succession de projets musicaux (entrecoupés de mini vidéos) qui servent de support concrets pour présenter des notions abstraites de DDD (domain modeling, bounded context, repository, ubiquitous language, supporting sub-domain, established formalism...) :
 
 - Création d'un instrument de musique jouable avec un équilibre en spontanéité et expressivité (sorte de air guitar sur une gamme pentatonique quantisée et avec possibilité de glissando, en Arduino)
 - Modélisation litérale du hardware de la machine icone Hip-Hop Akai MPC, pour en faire un éditeur de programmes en Java
 - Détection des battements rythmiques d'une boucle audio MIDI Sequencing (outil d'auto-slicing de boucles, Java)
 - Synthèse sonore d'un Wobble façon dubset, avec le synthétiseur modulaire de la librairie open-source Java JSyn
 
-Les liens correspondants pour creuser le sujet sont rassemblés ici : https://gist.github.com/cyriux/55deeeece50a303f6fe87de07c18fbae 
-
+Les liens correspondants pour creuser le sujet sont rassemblés ici : https://gist.github.com/cyriux/55deeeece50a303f6fe87de07c18fbae
 
 ## Keywords
 music, DDD, modelling, rhythm, groove, how things work, Bounded Contexts, fun, audio, geek
