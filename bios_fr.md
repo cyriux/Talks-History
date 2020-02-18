@@ -21,3 +21,10 @@ Cyrille est développeur depuis 1999. Il est aussi CTO co-fondateur de la socié
 
 Cyrille Martraire est architecte logiciel et auteur du livre Living Documentation édité par Addison-Wesley Professionals. Il est aussi co-fondateur, associé et directeur technique de l’entreprise Arolla, un cabinet de conseil et de réalisation spécialisé dans l’ingénierie logicielle. L’expertise de Cyrille Martraire porte sur l’ensemble des pratiques de conception logicielle, en particulier Domain-Driven Design, Test Driven Development et Behaviour Driven Development, sur lesquelles il est coach et formateur. Il a créé la communauté Software Craftsmanship Paris en 2011, qui rassemble aujourd’hui plus de 3700 professionnels. Ses interventions portent fréquemment sur la re-modularisation de vastes systèmes d’information, notamment vers des architectures microservices. Durant ses 20 années d’expérience professionnelle, Cyrille Martraire a par ailleurs dirigé des projets informatiques dans des entreprises de toutes tailles dans le domaine de la finance de marché. Cyrille Martraire est ingénieur diplômé de l’Ecole Nationale Supérieure des Techniques Avancée Bretagne.
 
+# Bio Le Singe Cuivre
+
+Au-delà d’accompagner des transformations dans des entreprises de toutes tailles (de la finance au médical) dans le cadre du Singe Cuivre, Cyrille est également CTO et co-fondateur de la société Arolla, spécialisée dans les pratiques software craftmanship.
+
+Il intervient fréquemment comme orateur dans de nombreux pays et a notamment créé une communauté technique forte de 4000 membres en France.
+
+Ses interventions portent fréquemment sur la re-modularisation de systèmes d’information et des équipes associées, typiquement pour soutenir des sociétés en très forte croissance ou pour aménager des options d'évolution sur des systèmes hérités. Il aime aussi aider à préciser les modèles mentaux des experts métiers, pour mieux remettre en question les processus historiques et les exprimer en logiciel de façon optimale.
