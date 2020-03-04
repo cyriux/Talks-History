@@ -14,6 +14,8 @@ Cyrille also has an extensive knowledge of capital market finance, and he's the 
 
 Author of the book Living Documentation, partner at Le Singe Cuivre, CTO and partner at Arolla, founder of the Paris Software Crafters community, regular speaker at international conferences. 20yrs of experience in software design, DDD & finance.
 
+Cyrille is a developer with 20 years of experience, mostly with DDD and in finance, and is the author of the book Living Documentation (Addison-Wesley). He founded the Paris Software Crafters community in 2011 and co-founded the companies Le Singe Cuivre and Arolla. Cyrille speaks regularly at international in Europe and beyond.
+
 # Publications
 
 - Book 'Living Documentation', 384 pages, Addison-Wesley Professional (Pearson), ISBN-13: 978-0134689326
