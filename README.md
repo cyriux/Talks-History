@@ -84,3 +84,10 @@ Some of my past videos online, and feedbacks: [Youtube playlist](https://www.you
 
 A (not up-to-date) list of my past speaking history is on [Lanyrd](http://lanyrd.com/profile/cyriux) (provided Lanyrd is not down), or on [Eventil](https://eventil.com/users/cyriux).
 
+# Photos
+
+Thanks DDD Europe!
+https://www.dropbox.com/sh/jbqly9ixetlahnb/AAAzkW35ppT4-77cqeYndOSHa?dl=0
+https://www.dropbox.com/sh/igzys0ovl2wj0ha/AADOG9c5fdoQlBo6NtxkgvGta/Workshops/Cyrille%20Martraire?dl=0&subfolder_nav_tracking=1
+
+
