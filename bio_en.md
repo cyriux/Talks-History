@@ -1,6 +1,6 @@
 # Bio 1
 
-Cyrille Martraire (@cyriux) is a partner at Le Singe Cuivre, CTO and partner at Arolla (@ArollaFr). He founded the Paris Software Crafters community and is a regular speaker at international conferences. With 20 years of experience in startups, software vendors and banks, Cyrille has been practicing software design in every aspect, using TDD, BDD and in particular DDD.
+Cyrille Martraire (@cyriux) is a CTO and partner at Arolla (@ArollaFr). He founded the Paris Software Crafters community and is a regular speaker at international conferences. With 20 years of experience in startups, software vendors and banks, Cyrille has been practicing software design in every aspect, using TDD, BDD and in particular DDD.
 
 Cyrille has an extensive knowledge of capital market finance, and he's the author of the book Living Documentation published by Addison-Wesley Professional.
 
@@ -12,7 +12,7 @@ Cyrille also has an extensive knowledge of capital market finance, and he's the 
 
 # Bio short
 
-Author of the book Living Documentation, partner at Le Singe Cuivre, CTO and partner at Arolla, founder of the Paris Software Crafters community, regular speaker at international conferences. 20yrs of experience in software design, DDD & finance.
+Author of the book Living Documentation, CTO and partner at Arolla, founder of the Paris Software Crafters community, regular speaker at international conferences. 20yrs of experience in software design, DDD & finance.
 
 Cyrille is a developer with 20 years of experience, mostly with DDD and in finance, and is the author of the book Living Documentation (Addison-Wesley). He founded the Paris Software Crafters community in 2011 and co-founded the companies Le Singe Cuivre and Arolla. Cyrille speaks regularly at international in Europe and beyond.
 
