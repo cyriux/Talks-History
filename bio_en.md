@@ -51,6 +51,7 @@ Cyrille is a developer with 20 years of experience, mostly with DDD and in finan
 
 ## Trainings received
 
+- Don Reinertsen (Cost of delay)
 - Joe Rainsberger (TDD)
 - Adi Bolboaca (Code Retreat TDD)
 - Steve Freeman (TDD at the System Scale) 
