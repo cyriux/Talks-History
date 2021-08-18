@@ -14,7 +14,7 @@ Since I've launched the Paris Software Crafters (formerly known as Craftsmanship
 
 I do a lot of short to medium-term consulting for companies of all types and sizes, mostly in France and in various domains like trading, financial services, distribution, agriculture, accounting etc. My practice draws on a deep practice of software developments over two decades, using Domain-Driven Design and with a focus on software as a large-scale, complex (and not just complicated), hybrid (technology & humans), adaptive system.
 
-This activity that was historically done at [Arolla](https://www.arolla.fr) is now officially part of [Le Singe Cuivre](https://www.lesingecuivre.com/), our subsidiary which specializes in helping clients achieve the transformation they are looking for.
+I perform this consulting activity as part of [Arolla](https://www.arolla.fr), as we are specialized in helping clients achieve the benfits they are looking for from their software systems (which includes both the software itself and the people involved, of course).
 
 ## Examples of consulting work
 
