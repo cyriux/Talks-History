@@ -1,12 +1,12 @@
 # Bio 1
 
-Cyrille Martraire (@cyriux) is a CTO and partner at Arolla (@ArollaFr). He founded the Paris Software Crafters community and is a regular speaker at international conferences. With 20 years of experience in startups, software vendors and banks, Cyrille has been practicing software design in every aspect, using TDD, BDD and in particular DDD.
+Cyrille Martraire (@cyriux) is a CTO and partner at Arolla (@ArollaFr). He founded the Paris Software Crafters community and is a regular speaker at international conferences. With 20+ years of experience in startups, software vendors and banks, Cyrille has been practicing software design in every aspect, using TDD, BDD and in particular DDD.
 
 Cyrille has an extensive knowledge of capital market finance, and he's the author of the book Living Documentation published by Addison-Wesley Professional.
 
 # Bio 2
 
-Cyrille Martraire (@cyriux) is CTO and partner at Arolla (@ArollaFr), the founder of the Paris Software Craftsmanship community and a regular speaker at international conferences. With 17+ years of experience in startups, software vendors and banks, Cyrille still calls himself a developer. He's passionate about design in every aspect: TDD, BDD and in particular DDD. 
+Cyrille Martraire (@cyriux) is CTO and partner at Arolla (@ArollaFr), the founder of the Paris Software Craftsmanship community and a regular speaker at international conferences. With 20+ years of experience in startups, software vendors and banks, Cyrille still calls himself a developer. He's passionate about design in every aspect: TDD, BDD and in particular DDD. 
 
 Cyrille also has an extensive knowledge of capital market finance, and he's the author of the book Living Documentation published by Addison-Wesley Professional.
 
@@ -22,10 +22,11 @@ Cyrille is a developer with 20 years of experience, mostly with DDD and in finan
 
 # Public Speaking (Summary)
 
-- Devoxx France (2012-2018 - 7 talks, 3 universities)
+- Tech.Rocks 2020 - 21 (meetup, podcast, soon Summit)
+- Devoxx France (2012-2019 - 7 talks, 3 universities)
 - DDD eXchange London (2012 - 2018 - 6 talks)
 - NewCraft Paris (2014 - 2018 - 4 talks)
-- DDD Europe Amsterdam (2016 - 2018 - 1 keynote, 2 talks, 2 workshops)
+- DDD Europe Amsterdam (2016 - 2021 - 1 keynote, 2 talks, 2 workshops)
 - GeeCON Krakow, Prague
 - Oredev 2013 Malmô (Sweden)
 - DDD eXchange New-York (USA) 2014
