@@ -1,8 +1,9 @@
 # Bio 1
 
-Depuis 1999 Cyrille développe des logiciels avec passion dans des startups et banques, et est co-fondateur et directeur technique d'Arolla, une société spécialisée en développement logiciel. Toujours accro au développement, il consacre une grande partie de son énergie chez des clients dans la finance de marché, en prenant intégralement en charge des projets en équipe, les mains dans le code et avec une forte implication dans l'analyse métier.
+Cyrille est CTO co-fondateur d'Arolla, une société qui rassemble 90 enthousiastes du Software Craft. Il est aussi est le fondateur de la commnunauté Paris Software Crafters, qui compte aujourd'hui plus de 4000 membres, et l'auteur du livre *Living Documentation* chez Addison-Wesley. Cyrille est aussi orateur régulier dans des conférences internationales.
 
-Passionné de design sous tous ses aspects (Clean Code, TDD, BDD, DDD, architecture), il a aussi fondé la communauté Software Craftsmanship Paris et intervient fréquemment comme orateur dans des conférences en Europe et au-délà.
+Cyrille est fondamentalement un développeur avec plus de 20 ans d'éxperience, ces dernières années surtout en conseil en architecture et en conception, avec l'aide de Domain-Driven Design et avec une vraie curiosité pour tous les métiers, de la finance à la logistique ou au médical.
+
 
 # Bio 2
 
