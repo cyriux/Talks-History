@@ -2,9 +2,9 @@
 
 ![My picture on gravatar](http://www.gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3)
 
-I'm [@cyriux on Twitter](https://twitter.com/cyriux) and on [LinkedIn](https://www.linkedin.com/in/martraire)
+I'm [@cyriux on Mastodon.social](https://mastodon.social/@cyriux) preferably, [@cyriux on Twitter](https://twitter.com/cyriux) and on [LinkedIn](https://www.linkedin.com/in/martraire)
 
-I wrote a book **Living Documentation**, published by [Pearson/Addison-Wesley Professionals](http://www.informit.com/livingdoc) after a first life on Leanpub. 
+I wrote a book **Living Documentation**, published by [Pearson/Addison-Wesley Professionals](http://www.informit.com/livingdoc) after a first life on Leanpub. I also co-wrote the book "Software Craft" in French for Dunod, 2022 with 4 of my Arolla co-workers at the time.
 
 Most days I'm helping development teams and their business friends get better at software design and Domain-Driven Design in particular through talks, workshops and teaching training courses in France and beyond.
 
@@ -40,6 +40,7 @@ I perform this consulting activity as part of [Arolla](https://www.arolla.fr), a
 
 Publications: 
 - [Living Documentation, Continuous Knowledge Sharing by Design](http://www.informit.com/livingdoc), publisher Pearson - Addison-Wesley Professionals, available on [Amazon](https://www.amazon.com/dp/0134689321)
+- [Software Craft, TDD, Clean Code et autres pratiques essentielles](https://www.leslibraires.fr/livre/20119701-software-craft-tdd-clean-code-et-autres-prati--houssam-fakih-cyrille-martraire-arnaud-thiefa--dunod), chez Dunod Editions, paru en 2022
 - [15 Years of DDD, Essays from the DDD Community](https://leanpub.com/ddd_first_15_years): A chapter on monoids for domain modeling, [also available here](https://www.arolla.fr/blog/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf)
 
 A review of my book on Infoq: https://www.infoq.com/articles/book-review-living-documentation/
@@ -75,7 +76,8 @@ Also member of the Devoxx France Program Commitee from 2015 to 2017.
 
 [Infoq article on my DDD Europe keynote: Working with Domain Experts in a DDD World](https://www.infoq.com/news/2016/05/domain-experts-ddd)
 
-[My Slides on Slideshare](http://www.slideshare.net/cyriux/) for example: http://www.slideshare.net/cyriux/ur-domain-haz-monoids
+[My Slides on SpeakerDeck](https://speakerdeck.com/cyriux)
+or [My old slides on Slideshare](http://www.slideshare.net/cyriux) for example: http://www.slideshare.net/cyriux/ur-domain-haz-monoids
  
 Some of my past videos online, and feedbacks: [Youtube playlist](https://www.youtube.com/playlist?list=PLEQ0rkTkaNSPPUC1kDPhdgN9XY-56g_5g), including two most popular (French): 
 
