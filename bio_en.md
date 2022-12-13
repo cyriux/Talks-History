@@ -51,16 +51,19 @@ Cyrille is a developer with 20 years of experience, mostly with DDD and in finan
 
 ## Trainings received
 
+- Dave Snowden (Cynefin & Complexity-Based Design Thinking)
+- Neal Ford (Software Architecture: The Hard Parts)
 - Don Reinertsen (Cost of delay)
-- Joe Rainsberger (TDD)
-- Adi Bolboaca (Code Retreat TDD)
 - Steve Freeman (TDD at the System Scale) 
 - Rebecca Wirfs-Brock (Agile Architecture)
 - Michael Nygard (Architecture without an End State)
 - Michael Feather (Handling Errors)
+- Joe Rainsberger (TDD)
+- Chloé-Agathe Azencott (Machine Learning)
+- Adi Bolboaca (Code Retreat TDD)
 - Tom Gilb (Evolutionary Project Management)
 - Yann Schwartz (Kafka)
 - Jérémie Chassaing (Event Sourcing)
 - Alberto Brandolini (Domain-Driven Design)
 - Kevlin Henney (Programming Paradigms)
-- Chloé-Agathe Azencott (Machine Learning)
+
