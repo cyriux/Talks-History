@@ -1,6 +1,6 @@
 # Talks History
 
-Most of my online videos: [Youtube playlist](https://www.youtube.com/playlist?list=PLEQ0rkTkaNSPPUC1kDPhdgN9XY-56g_5g),
+Most of my online videos: [Youtube playlist](https://www.youtube.com/playlist?list=PLEQ0rkTkaNSPPUC1kDPhdgN9XY-56g_5g).
 
 ![My picture on gravatar](http://www.gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3)
 
@@ -85,6 +85,8 @@ Some of my past videos online, and feedbacks: [Youtube playlist](https://www.you
 
 - Être architecte logiciel en 2018 (French) - A 3-hour Devoxx France University, together with Arnauld Loyer: https://www.youtube.com/watch?v=1igv2rHGKfo
 - Hexagonal Architecture to future-proof your system! (French) - A 3-hour Devoxx France University, together with Thomas Pierrain: https://www.youtube.com/watch?v=wZ7cxcU4iPE
+
+Plus multiples in this big list: https://vimeopro.com/newcrafts/newcrafts 
 
 A (not up-to-date) list of my past speaking history is on [Lanyrd](http://lanyrd.com/profile/cyriux) (provided Lanyrd is not down), or on [Eventil](https://eventil.com/users/cyriux).
 
