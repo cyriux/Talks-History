@@ -1,5 +1,7 @@
 # Talks History
 
+Most of my online videos: [Youtube playlist](https://www.youtube.com/playlist?list=PLEQ0rkTkaNSPPUC1kDPhdgN9XY-56g_5g),
+
 ![My picture on gravatar](http://www.gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3)
 
 I'm [@cyriux on Mastodon.social](https://mastodon.social/@cyriux) preferably, [@cyriux on Twitter](https://twitter.com/cyriux) and on [LinkedIn](https://www.linkedin.com/in/martraire)
