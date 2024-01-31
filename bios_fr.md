@@ -25,7 +25,7 @@ Cyrille Martraire est architecte logiciel, auteur du livre Living Documentation 
 
 Cyrille a créé la communauté Software Crafters Paris en 2011, qui rassemble aujourd’hui plus de 4800 professionnels. Il intervient fréquemment comme orateur dans des conférences en Europe et au-délà. Ses interventions de conseil en entreprise portent fréquemment sur la re-modularisation de vastes systèmes d’information, notamment vers des architectures microservices. 
 
-Durant ses 24 années d’expérience professionnelle, Cyrille Martraire a par ailleurs dirigé des projets informatiques dans des entreprises de toutes tailles dans le domaine de la finance de marché. Cyrille Martraire est ingénieur diplômé de l’Ecole Nationale Supérieure des Techniques Avancée Bretagne.
+Durant ses 24 années d’expérience professionnelle, Cyrille Martraire a par ailleurs dirigé des projets informatiques dans des entreprises de toutes tailles dans le domaine de la finance de marché. Cyrille Martraire est ingénieur diplômé de l’Ecole Nationale Supérieure des Techniques Avancées Bretagne.
 
 # Bio informelle
 
