@@ -21,7 +21,11 @@ Cyrille est développeur depuis 1999. Il est aussi CTO co-fondateur de la socié
 
 # Bio Académique
 
-Cyrille Martraire est architecte logiciel, auteur du livre Living Documentation édité par Addison-Wesley Professionals et co-auteur du livre Software Craft édité par Dunod Editions. Il est aussi co-fondateur, associé et directeur technique de l’entreprise Arolla, un cabinet de conseil et de réalisation spécialisé dans l’ingénierie logicielle. L’expertise de Cyrille Martraire porte sur l’ensemble des pratiques de conception logicielle, en particulier Domain-Driven Design, Test Driven Development et Behaviour Driven Development, sur lesquelles il est coach et formateur. Il a créé la communauté Software Crafters Paris en 2011, qui rassemble aujourd’hui plus de 4800 professionnels. Ses interventions portent fréquemment sur la re-modularisation de vastes systèmes d’information, notamment vers des architectures microservices. Durant ses 24 années d’expérience professionnelle, Cyrille Martraire a par ailleurs dirigé des projets informatiques dans des entreprises de toutes tailles dans le domaine de la finance de marché. Cyrille Martraire est ingénieur diplômé de l’Ecole Nationale Supérieure des Techniques Avancée Bretagne.
+Cyrille Martraire est architecte logiciel, auteur du livre Living Documentation édité par Addison-Wesley Professionals et co-auteur du livre Software Craft édité par Dunod Editions. Il est aussi co-fondateur, associé et directeur technique de l’entreprise Arolla, un cabinet de conseil et de réalisation spécialisé dans l’ingénierie logicielle. L’expertise de Cyrille Martraire porte sur l’ensemble des pratiques de conception logicielle, en particulier Domain-Driven Design, Test Driven Development et Behaviour Driven Development, sur lesquelles il est coach et formateur. 
+
+Cyrille a créé la communauté Software Crafters Paris en 2011, qui rassemble aujourd’hui plus de 4800 professionnels. Il intervient fréquemment comme orateur dans des conférences en Europe et au-délà. Ses interventions de conseil en entreprise portent fréquemment sur la re-modularisation de vastes systèmes d’information, notamment vers des architectures microservices. 
+
+Durant ses 24 années d’expérience professionnelle, Cyrille Martraire a par ailleurs dirigé des projets informatiques dans des entreprises de toutes tailles dans le domaine de la finance de marché. Cyrille Martraire est ingénieur diplômé de l’Ecole Nationale Supérieure des Techniques Avancée Bretagne.
 
 # Bio informelle
 
