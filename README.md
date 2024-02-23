@@ -1,3 +1,5 @@
+[Conveniently, Google now has a knowledge panel about me](https://g.co/kgs/Hiet2aE) 
+
 # Talks History
 
 Most of my online videos: [Youtube playlist](https://www.youtube.com/playlist?list=PLEQ0rkTkaNSPPUC1kDPhdgN9XY-56g_5g).
