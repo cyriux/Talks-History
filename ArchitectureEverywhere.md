@@ -8,5 +8,12 @@ Cette session sera l’occasion de mettre en avant les thèmes essentiels à con
 
 # Architecture for Everyone, Everywhere, All the time
 
-With the rise of cloud computing and the increasing complexity of software systems, the trend is clear: architecture is becoming a concern for everyone, all the time, and everywhere. It is therefore essential for every team to have a good understanding of architectural practices. But as we cannot be experts in everything, what do we really need to know, and how is the role of architects evolving?
+As software systems get more complex and move to the cloud, the trend is clear: architecture is becoming a concern for everyone, all the time, and everywhere. 
+
+It is therefore essential for every team to have a good understanding of architectural practices. But as we cannot be experts in everything, what do we really need to know, and how is the role of architects evolving? 
+
 This session will provide an overview of the key topics to be familiar with, from the mindset when facing a problem to the techniques for integrating modules, minimizing coordination needs, and ensuring consistency at scale. It will also highlight the importance of having the right attitude in each context, in addition to mastering a growing number of technologies.
+
+# Notes
+
+
