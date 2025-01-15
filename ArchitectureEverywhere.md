@@ -16,4 +16,7 @@ This session will provide an overview of the key topics to be familiar with, fro
 
 # Notes
 
+This talk is a summary of the key points of my popular commercial workshop "Pragmatic Architecture" (also called "Crafting Modular Architecture"). 
+
+The content has already been presented in conferences at Devoxx France as a deep dive format, and as a talk at a private event at France Travail with an attendance feedback of NPS=86, where many attendees were architects or senior devs.
 
