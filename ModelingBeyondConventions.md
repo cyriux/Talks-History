@@ -13,4 +13,10 @@ The end of day doesn't have to be at midnight, regions don't have to be administ
 
 Alternative title: Conventions are meant to be challenged - Taking liberties with domain traditions for fun and profit
 
+# Social media messages
+
+When modeling a domain, you don't have to follow usual conventions: the end of day doesn't have to be at midnight, and regions don't have to be administrative. In the talk 'Breaking conventions for more performant models' by @cyriux, discover how unconventional modeling of can boost your models!
+
+
+Conventions are meant to be challenged: Join @cyriux to find out how bending domain traditions can speed up and simplify your domain models, in the talk 'Breaking conventions for more performant models' 
 
